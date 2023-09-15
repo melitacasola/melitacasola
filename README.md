@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! i'm Melissa, but my friends call me Melita. Welcome!<br>I'm a Fullstack developer whit a strong inclination towards fronted development.<br><br>Where I am<br>I am currently working as a frontend developer in a startup in Córdoba.<br><br>Fun fact?<br>I'm also a lawyer specializing in labor law,<br><br>What I love<br>I love cycling and everything related to it.<br><br>Anyways, come in, check out my work en feel free to contact me. I'm always open to reciving helpfull feedback and having nerdy conversations.
+Hi! i'm Melissa, but my friends call me Melita. Welcome!<br>I'm a Fullstack developer with a strong inclination towards fronted development.<br><br>Where I am<br>I am currently working as a frontend developer in a startup in Córdoba.<br><br>Fun fact?<br>I'm also a lawyer specializing in labor law,<br><br>What I love<br>I love cycling and everything related to it.<br><br>Anyways, come in, check out my work en feel free to contact me. I'm always open to reciving helpfull feedback and having nerdy conversations.
 
 
 ## 🌐 Socials:
